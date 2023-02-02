@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+echo "entrez nom d'utilisateur"
+read user
+sudo adduser $user
+ 
+
